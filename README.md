@@ -1,7 +1,7 @@
 ### Oi! 👋 Seja Bem-Vindo
 
 <!--
-**EuclidesQuissembe/EuclidesQuissembe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ricardo João António** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Euclides Bernardo (IceDev)
+# Ricardo António (IceDev)
 
 #### "I am passionate about the world of I.T and I always liked to program. Programming is my passion. Thanks to my effort and dedication I am achieving goals that I have always wanted. Focus and work is always good.".
 
 ## Overview
 
-<p><img src="https://komarev.com/ghpvc/?username=EuclidesQuissembe" alt="Euclides Bernardo" /></p>
+<p><img src="https://komarev.com/ghpvc/?username=Ricardo-1976" alt="Ricardo António" /></p>
 
 **Languages and Tools:**
 
@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EuclidesQuissembe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-1976&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="right" src="https://github.com/AlienDev66/AlienDev66/blob/master/undraw_developer_activity_bv83.svg" alt="Illustration of AlienDev66" width=265px height=265px/>
+<img align="right" src="https://github.com/Ricardo-1976Ricardo-1976/blob/master/undraw_developer_activity_bv83.svg" alt="Illustration ofRicardo-1976" width=265px height=265px/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=EuclidesQuissembe&show_icons=true" alt="euclidesquissembe-status" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ricardo-1976EuclidesQuissembe&show_icons=true" alt="Ricardo-1976-status" />
 
