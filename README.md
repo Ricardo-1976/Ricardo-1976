@@ -37,5 +37,5 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://github.com/Ricardo-1976Ricardo-1976/blob/master/undraw_developer_activity_bv83.svg" alt="Illustration ofRicardo-1976" width=265px height=265px/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ricardo-1976EuclidesQuissembe&show_icons=true" alt="Ricardo-1976-status" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ricardo-1976&show_icons=true" alt="Ricardo-1976-status" />
 
