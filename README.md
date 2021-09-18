@@ -32,10 +32,9 @@ Here are some ideas to get you started:
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-1976&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EuclidesQuissembe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="right" src="https://github.com/Ricardo-1976Ricardo-1976/blob/master/undraw_developer_activity_bv83.svg" alt="Illustration ofRicardo-1976" width=265px height=265px/>
+<img align="right" src="https://github.com/AlienDev66/AlienDev66/blob/master/undraw_developer_activity_bv83.svg" alt="Illustration of AlienDev66" width=265px height=265px/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ricardo-1976&show_icons=true" alt="Ricardo-1976-status" />
 
