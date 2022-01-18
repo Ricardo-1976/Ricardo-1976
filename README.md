@@ -1,10 +1,11 @@
 ## Sou um apaixonado pelo mundo das TI e sempre gostei de programar.!
-<div>
+<div align="center">
   <a href="https://github.com/Ricardo-1976">
 
+<p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ricardo-1976&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-1976&layout=compact&langs_count=7&theme=dracula"/>
-
+  <img height="180em" width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-1976&layout=compact&langs_count=7&theme=dracula"/>
+<p/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
